@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows / Linux
+Thumbs.db
+*~
+
+# IDE & Editor temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local media / scratch artifacts
+*.mp4
+*.mov
+*.wav
