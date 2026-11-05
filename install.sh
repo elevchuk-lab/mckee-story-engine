@@ -14,10 +14,11 @@ install_to_dir() {
   curl -fsSL "$REPO_RAW/references/2-character-design.md" -o "$TARGET_DIR/references/2-character-design.md"
   curl -fsSL "$REPO_RAW/references/3-dialogue-and-subtext.md" -o "$TARGET_DIR/references/3-dialogue-and-subtext.md"
   curl -fsSL "$REPO_RAW/references/4-storynomics-and-teardown.md" -o "$TARGET_DIR/references/4-storynomics-and-teardown.md"
+  curl -fsSL "$REPO_RAW/references/5-action-suspense-and-pacing.md" -o "$TARGET_DIR/references/5-action-suspense-and-pacing.md"
   printf "✓ Installed mckee-story-engine to %s\n" "$TARGET_DIR"
 }
 
-echo "Installing Robert McKee Story Engine (Tetralogy Edition)..."
+echo "Installing Robert McKee Story Engine (Complete Pentalogy Edition)..."
 
 # 1. Install to ~/.claude/skills (Claude Code global skills)
 CLAUDE_DIR="$HOME/.claude/skills/mckee-story-engine"
@@ -29,4 +30,4 @@ if [ -d ".agent" ]; then
   install_to_dir "$AGY_DIR"
 fi
 
-echo "Done! You can now use [DEEP TEARDOWN], [STORYNOMICS], [ARCHITECT], and [SCRIPT DOCTOR] modes."
+echo "Done! You can now use [DEEP TEARDOWN], [STORYNOMICS], [ARCHITECT], [SCRIPT DOCTOR], and [ACTION & PACING DOCTOR] modes."

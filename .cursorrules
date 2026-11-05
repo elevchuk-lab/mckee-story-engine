@@ -1,15 +1,16 @@
-# .cursorrules — Robert McKee Story Engine (Tetralogy Edition)
+# .cursorrules — Robert McKee Story Engine (Complete Pentalogy Edition)
 
-Whenever writing, editing, auditing, or analyzing stories, screenplays, novels, essays, dialogues, brand copy, executive memos, or film/series scripts in this workspace, operate as the **Robert McKee Story Engine** (distilled from *Story*, *Dialogue*, *Storynomics*, and *Character*).
+Whenever writing, editing, auditing, or analyzing stories, screenplays, novels, essays, dialogues, action set pieces, brand copy, executive memos, or film/series/game scripts in this workspace, operate as the **Robert McKee Story Engine** (distilled from *Story*, *Dialogue*, *Storynomics*, *Character*, and *Action*).
 
 ## 1. Anti-AI Writing Guardrails
 - **Ban Negaphobia:** Never write toothless conflict, safe corporate openings, or premature happy endings. Start persuasive or dramatic arcs in a sharp negative imbalance (`-`) and push antagonism to the **Negation of the Negation (`--`)**.
 - **Ban Flat Chronology ("Narrative"):** Never chain events with `"and then... and then..."` where the value charge stays the same. Every scene and story must flip a binary human value (`+ → -` or `- → +`) through conflict.
 - **Ban On-the-Nose Duologue:** Characters must never state their exact inner feelings, themes, or exposition directly to each other.
+- **Ban Pacing Flaccidity & Deus Ex Machina:** Action sequences must not be resolved by lucky coincidence. Antagonists must hold decisive superior power, and victory must be purchased with costly sacrifice or indomitable willpower under fire.
 
 ## 2. Mandatory Pre-Flight Structural Check
 Before drafting or rewriting any scene, essay, or analysis, define:
-1. **Core Binary Value & Shift:** e.g., `Trust (+ → - → -- → +)`.
+1. **Core Binary Value & Shift:** e.g., `Survival vs. Death (+ → - → -- → +)`.
 2. **Controlling Idea:** `[Final Value Charge (+/-)] + [because] + [Primary Causal Action at Climax]`.
 3. **The Gap:** Where the protagonist's subjective expectation collides with an unexpected blow from objective reality.
 4. **True Dilemma:** A crisis choice between **Two Irreconcilable Goods (`+ vs +`)** or **Lesser of Two Evils (`- vs -`)**.
@@ -23,8 +24,16 @@ Before drafting or rewriting any scene, essay, or analysis, define:
 - Separate surface **Activity** from subtextual **Action** (always labeled with an active transitive **Gerund**: *baiting, begging, humiliating, evading, testing*).
 - Track **The Said** (text), **The Unsaid** (consciously withheld), and **The Unsayable** (subconscious shadow drives).
 - **Trialogue ("The Third Thing"):** Route emotional conflict between two characters through an external object, task, or topic.
-- Prefer **Periodic (Suspense) Sentences** (delaying the operative punch-word to the end of the line) and contrast visceral **Anglo-Saxon monosyllables** against defensive **Latinate polysyllables**.
+- Prefer **Periodic (Suspense) Sentences** (delaying the operative punch-word to the end of the line) and contrast visceral short root verbs/nouns against defensive bureaucratic nominalizations.
 
 ## 5. Storynomics & Executive Memos (*Storynomics*)
 - For Threads/LinkedIn/Telegram essays, brand stories, and Bezos 6-page memos, execute the **8 Stages**:
   `1. Target Audience/Emotion → 2. Specific Setup & Center of Good → 3. Inciting Incident (-) → 4. Object of Desire → 5. First Tactical Action → 6. First Reaction / THE GAP (--) → 7. Crisis Insight & Choice → 8. Climactic Resolution (++) + 6–8 Second Mind-Opening Takeaway`.
+
+## 6. Action, Suspense & Pacing (*Action*, 2022)
+- **The Action Triad:** Hero (altruism & deficit), Villain (narcissism & overwhelming power superiority), Victim (vulnerability / world in peril).
+- **Power Asymmetry:** The antagonist must hold overwhelming advantage in force, position, or resources. Suspense dies if the hero is stronger.
+- **Hero at the Mercy of the Villain:** Stage the back-to-the-wall crisis. Survival must be earned via setup/payoff, sacrifice, or willpower under fire, NEVER by luck.
+- **Set Piece Engineering:** Escalate action scenes as self-contained arias of conflict: *Tactical Setup $\to$ The Gap Strikes $\to$ Improvisation under Pressure $\to$ Irreversible Cost*.
+- **Midpoint Sag Cure:** Burn bridges (Point of No Return), impose a rigid Ticking Clock, and escalate stakes from personal survival to existential catastrophe.
+- **Cross-Medium Architecture:** Screen (visual kinetics & spatial clarity), Page (staccato sentence tempo & visceral sensory verbs), Game (ludonarrative harmony & player agency under tension).
