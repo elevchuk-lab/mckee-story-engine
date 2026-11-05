@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or narrative physics architecture in your research or scripts, please cite it as below."
+authors:
+  - family-names: "Levchuk"
+    given-names: "Yevgeniy"
+    orcid: "https://orcid.org/0009-0006-7103-0823"
+title: "Algorithmic Implementation of Robert McKee's Narrative Pentalogy: Story, Dialogue, Character, Action & Subtext"
+version: "1.1.1"
+date-released: "2026-11-05"
+license: "MIT"
+url: "https://github.com/elevchuk-lab/mckee-story-engine"
+repository-code: "https://github.com/elevchuk-lab/mckee-story-engine"
+abstract: "A formalized algorithmic narrative architecture implementing Robert McKee's complete dramatic theory (Story, Dialogue, Storynomics, Character, and Action). Eliminates AI-generated narrative agreeableness (negaphobia) and flaccidity through 5 operational modes: 5-Part Story Structure, 10-Level Dialogue Subtext Decompression, 3-Tier Dimensional Character Architectures, Scene Dynamics Energy Polarity Equations, and McKee Action Set-Piece Engines."
+keywords:
+  - "narrative physics"
+  - "robert mckee"
+  - "story structure"
+  - "dialogue subtext"
+  - "character design"
+  - "action set-pieces"
+  - "computational narratology"
+  - "llm prompt engineering"

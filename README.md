@@ -1,5 +1,6 @@
 # Robert McKee Story Engine (Complete Pentalogy Edition 1997–2022)
 
+[![ORCID: 0009-0006-7103-0823](https://img.shields.io/badge/ORCID-0009--0006--7103--0823-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7103-0823)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 [![Models](https://img.shields.io/badge/Models-Claude%20%7C%20GPT--4o%2Fo3%20%7C%20Gemini%20%7C%20Local%20LLMs-blue)](#installation--multi-model-setup)
 [![Agent Skill](https://img.shields.io/badge/Format-SKILL.md%20%2B%20XML%20%2B%20Cursor-emerald)](#repository-structure)
@@ -181,6 +182,25 @@ This repository is an **independent, open-source educational and engineering res
 
 ---
 
+## Citation & Academic Attribution
+
+If you utilize this engine or narrative physics architecture in academic research, script analysis, or computational narratology, please cite:
+
+```bibtex
+@software{levchuk_mckee_2026,
+  author       = {Levchuk, Yevgeniy},
+  title        = {{Algorithmic Implementation of Robert McKee's Narrative Pentalogy: Story, Dialogue, Character, Action \& Subtext}},
+  version      = {v1.1.1},
+  year         = {2026},
+  month        = nov,
+  publisher    = {GitHub},
+  url          = {https://github.com/elevchuk-lab/mckee-story-engine},
+  note         = {ORCID: https://orcid.org/0009-0006-7103-0823}
+}
+```
+
+---
+
 ## License & Attribution
 
-Created by **Yevgeniy Levchuk** ([@elevchuk-lab](https://github.com/elevchuk-lab)) and released under the [MIT License](LICENSE). All dramatic theory foundations are credited with deepest gratitude to the lifetime works of **Robert McKee** (*Story*, *Dialogue*, *Storynomics*, *Character*, and *Action*).
+Created by **[Yevgeniy Levchuk](https://orcid.org/0009-0006-7103-0823)** ([@elevchuk-lab](https://github.com/elevchuk-lab)) and released under the [MIT License](LICENSE). All dramatic theory foundations are credited with deepest gratitude to the lifetime works of **Robert McKee** (*Story*, *Dialogue*, *Storynomics*, *Character*, and *Action*).
