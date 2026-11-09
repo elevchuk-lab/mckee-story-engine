@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows / Linux
+Thumbs.db
+*~
+
+# IDE & Editor temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local media / scratch artifacts
+*.mp4
+*.mov
+*.wav

@@ -1,0 +1,109 @@
+{
+  "version": "1.1.2",
+  "description": "Double-blind evaluation dataset of 12 narrative prompts for testing Vanilla LLM vs. McKee Story Engine across diverse genres and languages.",
+  "evaluation_criteria": [
+    "Subtext_Depth",
+    "Value_Turn_Velocity",
+    "Author_Voice_Preservation",
+    "Conflict_Negation_Calibration",
+    "Acoustic_Sentence_Craft"
+  ],
+  "scenes": [
+    {
+      "id": "SCENE-01-DRAMA-BETRAYAL",
+      "genre": "Prestige Drama",
+      "language": "en",
+      "prompt": "Write a 3-beat dramatic dialogue scene where an ambitious junior partner confronts their mentor, discovering the mentor quietly removed them from the company's SEC S-1 IPO registration filing.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Avoid on-the-nose accusations ('You betrayed me!'). Route conflict through subtextual tactics and a physical Third Thing."
+    },
+    {
+      "id": "SCENE-02-COMEDY-DOMESTIC",
+      "genre": "Comedy of Manners",
+      "language": "en",
+      "prompt": "Write a comedic scene where a meticulous architect husband and his free-spirited artist wife negotiate who has to host an unbearable mutual in-law for Thanksgiving dinner.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Preserve authorial comedic voice; do NOT force dark existential dread or tragic negation. Escalate via blind obsession and comic reversals."
+    },
+    {
+      "id": "SCENE-03-STORYNOMICS-MEMO",
+      "genre": "Executive Narrative Memo",
+      "language": "en",
+      "prompt": "Draft the opening 2 pages of a Bezos-style narrative memo explaining why our enterprise SaaS customer churn spiked 34% in Q3 after we launched an 'AI automated onboarding' feature.",
+      "intended_mode": "STORYNOMICS",
+      "eval_focus": "Eliminate corporate rhetoric and negaphobia; state raw unvarnished metrics, expose the Gap between expectation and reality, and define the crisis trade-off."
+    },
+    {
+      "id": "SCENE-04-ACTION-SET-PIECE",
+      "genre": "Espionage Action Thriller",
+      "language": "en",
+      "prompt": "Write a high-intensity action set piece where a lone injured operative must cross a floodlit train yard while pursued by a four-man tactical team with thermal optics. Ammunition: 3 rounds.",
+      "intended_mode": "ACTION & PACING DOCTOR",
+      "eval_focus": "Enforce strict power asymmetry, tactile sensory geography, improvisation under fire, and irreversible physical/resource cost. No lucky coincidences."
+    },
+    {
+      "id": "SCENE-05-TRUE-DILEMMA",
+      "genre": "Medical / Bioethics Drama",
+      "language": "en",
+      "prompt": "Write a scene where a chief surgeon must decide whether to allocate the only available donor heart to a 14-year-old ward of the state or a world-renowned oncologist who is 3 months away from publishing a breakthrough leukemia trial.",
+      "intended_mode": "ARCHITECT / SCRIPT DOCTOR",
+      "eval_focus": "Force a True Dilemma between Two Irreconcilable Goods (+ vs +). Avoid easy villains or convenient moral shortcuts."
+    },
+    {
+      "id": "SCENE-06-RU-KANTSELYARIT-SUBTEXT",
+      "genre": "Corporate / Bureaucratic Drama",
+      "language": "ru",
+      "prompt": "Напишите напряженную сцену диалога, где главный бухгалтер холдинга пытается предупредить финансового директора о фальсификации отчетности, но боится сказать об этом прямо и говорит на сухом чиновничьем канцелярите. В кульминации маска трескается.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Использование канцелярита как эмоционального щита с переходом в короткие ударные глаголы действия в момент разрыва маски."
+    },
+    {
+      "id": "SCENE-07-ES-STATUS-REGISTER",
+      "genre": "Social Realism / Psychological Drama",
+      "language": "es",
+      "prompt": "Escribe una escena entre una jueza de instrucción y un influyente empresario bajo investigación. Ella intenta interrogarlo con cortesía formal mientras él usa la familiaridad de su pasado compartido para socavar su autoridad.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Ajuste de registro formal (usted) vs. íntimo (tú), evasiones en modo subjuntivo y tensión de estatus en el subtexto."
+    },
+    {
+      "id": "SCENE-08-ROMANCE-SUBTEXT",
+      "genre": "Contemporary Romance",
+      "language": "en",
+      "prompt": "Two estranged former lovers meet accidentally at a mutual friend's wedding reception and share a cigarette outside in the rain.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Turn duologue into trialogue; route unspoken longing and lingering resentment through the cigarette and the cold rain. Zero on-the-nose declarations."
+    },
+    {
+      "id": "SCENE-09-PACING-MIDPOINT-SAG",
+      "genre": "Sci-Fi Survival",
+      "language": "en",
+      "prompt": "A deep-space salvage crew realizes their orbital tether is decaying 4 hours faster than estimated, and one crew member has secretly been siphoning the backup oxygen tank.",
+      "intended_mode": "ACTION & PACING DOCTOR",
+      "eval_focus": "Midpoint sag cure: burn bridges, tighten the ticking clock, escalate stakes from technical maintenance to existential murder/survival."
+    },
+    {
+      "id": "SCENE-10-STORYNOMICS-FOUNDER-PITCH",
+      "genre": "Founder Pitch Essay",
+      "language": "en",
+      "prompt": "Write a LinkedIn/Substack essay for a deeptech biotech founder announcing their failure in Phase II trials and the radical pivot that emerged from the wreckage.",
+      "intended_mode": "STORYNOMICS",
+      "eval_focus": "Execute the 8-stage causal journey: begin in negative friction, expose the flawed dogma, and place the controlling insight at the peak of the climax."
+    },
+    {
+      "id": "SCENE-11-DE-INTERROGATION-MODAL",
+      "genre": "Historical / Noir Drama",
+      "language": "de",
+      "prompt": "Schreibe eine Verhörszene im Berlin der Nachkriegszeit zwischen einem alliierten Ermittler und einem städtischen Archivleiter, der den Verbleib beschlagnahmter Kunstwerke verschleiert.",
+      "intended_mode": "SCRIPT DOCTOR",
+      "eval_focus": "Verwendung von Modalpartikeln (eben, halt, eigentlich) als Ausweichtaktik; Aufbrechen der bürokratischen Passivkonstruktionen."
+    },
+    {
+      "id": "SCENE-12-QUICK-AUDIT-SAMPLE",
+      "genre": "Quick Scene Polish (<300 words)",
+      "language": "en",
+      "prompt": "Audit and polish this 150-word draft: 'Detective Miller looked at the blood on the floor. He turned to Sarah and said, 'I know you shot him because you found out he was embezzling your family trust. Tell me the truth right now.' Sarah started crying. 'I didn't mean to, Detective. He pulled a gun first.''",
+      "intended_mode": "QUICK AUDIT / SCENE POLISH",
+      "eval_focus": "Execute fast 3-beat diagnosis (Core Value, The Gap, Line Polish) without multi-page bloat. Preserve police procedural genre."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+trial_id,scene_id,evaluator_id,sample_code,condition,subtext_depth,value_turn_velocity,voice_preservation,antagonism_calibration,sentence_craft,holistic_score,forced_choice_rank,notes
+T01_01,scene_01_noir_deposition,evaluator_01,Sample_1,A_vanilla,,,,,,,
+T01_02,scene_01_noir_deposition,evaluator_01,Sample_2,B_mckee_engine,,,,,,,
+T01_03,scene_01_noir_deposition,evaluator_01,Sample_3,C_generic_craft,,,,,,,
+T02_01,scene_02_comedy_of_manners,evaluator_01,Sample_1,C_generic_craft,,,,,,,
+T02_02,scene_02_comedy_of_manners,evaluator_01,Sample_2,A_vanilla,,,,,,,
+T02_03,scene_02_comedy_of_manners,evaluator_01,Sample_3,B_mckee_engine,,,,,,,
+T03_01,scene_03_founder_pitch_storynomics,evaluator_01,Sample_1,B_mckee_engine,,,,,,,
+T03_02,scene_03_founder_pitch_storynomics,evaluator_01,Sample_2,C_generic_craft,,,,,,,
+T03_03,scene_03_founder_pitch_storynomics,evaluator_01,Sample_3,A_vanilla,,,,,,,
